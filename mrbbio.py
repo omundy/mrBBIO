@@ -46,13 +46,13 @@ digitalPinDef = {
 			"P9.42":	7}
 
 analogPinDef = {
-			"P9.33":	"ain4",
-			"P9.35":	"ain6",
-			"P9.36":	"ain5",
-			"P9.37":	"ain2",
-			"P9.38":	"ain3",
-			"P9.39":	"ain0",
-			"P9.40":	"ain1"}
+			"P9.33":	"ain5",
+			"P9.35":	"ain7",
+			"P9.36":	"ain6",
+			"P9.37":	"ain3",
+			"P9.38":	"ain4",
+			"P9.39":	"ain1",
+			"P9.40":	"ain2"}
 
 def pinMode(pin, direction):
 	"""pinMode(pin, direction) opens (exports)  a pin for use and 
